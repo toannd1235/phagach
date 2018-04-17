@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1523935883 source:e:\lap trinh c++\codeblocks project\main.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<thread>
+	"functions.h"
+	"menu.h"
+	"elements.h"
+	"game.h"
+
+1523935842 e:\lap trinh c++\codeblocks project\functions.h
+
+1523935842 e:\lap trinh c++\codeblocks project\menu.h
+
+1523935842 e:\lap trinh c++\codeblocks project\elements.h
+
+1513675378 e:\lap trinh c++\codeblocks project\game.h
+
+1523935883 source:e:\lap trinh c++\gamebreakout\main.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<thread>
+	"functions.h"
+	"menu.h"
+	"elements.h"
+	"game.h"
+
+1523935842 e:\lap trinh c++\gamebreakout\functions.h
+
+1523935842 e:\lap trinh c++\gamebreakout\menu.h
+
+1523935842 e:\lap trinh c++\gamebreakout\elements.h
+
+1513675378 e:\lap trinh c++\gamebreakout\game.h
+
