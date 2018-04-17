@@ -4,7 +4,8 @@
 #include <windows.h>
 #include <iostream>
 #include<conio.h>
-#include <thread>#include <cmath>
+#include <thread>
+#include <cmath>
 using namespace std;
 #include "functions.h"
 #include "menu.h"
@@ -32,7 +33,6 @@ thread second(listenInput);
     }
 
     }
-
    // second.detach();
     return 0;
 }
