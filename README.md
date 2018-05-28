@@ -8,3 +8,4 @@ Luật chơi      : Người chơi sử dụng các phím mũi tên để diều
                  Trong project có ý tưởng từ trò chơi phá gạch chơi từ bé
 
 Định hướng phát triển thêm : Sẽ xây dựng game có nhiều màn chơi hơn, có đồ họa đẹp , âm thanh sống động
+  
